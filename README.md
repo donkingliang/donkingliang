@@ -1,25 +1,12 @@
-### Hi there 👋
+## 欢迎来访我的主页
 
 
-**donkingliang/donkingliang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-# About My Github
+## About My Github
 
 <br/> 
 <div align="left">
-<img height='170' src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkingliang&layout=compact&langs_count=8&theme=cobalt" align="center" />
-<img height='170' src="https://github-readme-stats.vercel.app/api?username=donkingliang&show_icons=true&theme=cobalt" align="center" />
+<img height='150' src="https://github-readme-stats.vercel.app/api/top-langs/?username=donkingliang&layout=compact&langs_count=8&theme=cobalt" align="center" />
+<img height='150' src="https://github-readme-stats.vercel.app/api?username=donkingliang&show_icons=true&theme=cobalt" align="center" />
 </div> 
 
 </br>
@@ -32,7 +19,7 @@ Here are some ideas to get you started:
 <!--     <a href="https://blog.csdn.net/weixin_50915462/"><img src="https://img.shields.io/badge/CSDN-论坛-c32136" /></a>&emsp; -->
 <!--     <a href="https://www.zhihu.com/people/sunguoqi/"><img src="https://img.shields.io/badge/Zhihu-知乎-blue" /></a>&emsp; -->
     <!-- visitor statistics logo 访客数统计徽标 -->
-<!--     <img src="https://komarev.com/ghpvc/?username=donkingliang&label=Views&color=0e75b6&style=flat" alt="访问量统计" /> -->
+    <img src="https://komarev.com/ghpvc/?username=donkingliang&label=Views&color=0e75b6&style=flat" alt="访问量统计" />
 <!--      <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" alt="访客统计" /> -->
   </div>
 </br>
