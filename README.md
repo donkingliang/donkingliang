@@ -26,8 +26,7 @@
 ![Flutter](https://img.shields.io/badge/-Flutter-333333?style=flat&logo=Flutter)
 
 - 📍 广州(Guangzhou)
-- 👩‍💻 8 years of work.
-- 🏢 待业 (求内推)
+- 👩‍💻 8 years of work.<!-- - 🏢 待业 (求内推) -->
 - wx : liangrenyan5201314
 - 📧  [1043214265@qq.com](mailto:1043214265@qq.com)
 
